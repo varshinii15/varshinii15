@@ -8,10 +8,22 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 <p align="center">
   <a href="https://www.linkedin.com/in/srivarshini-gunasekaran-256011324"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:srivarshinig06@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://your-username.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-14243A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://varshinii15.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-14243A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
+
+## Snapshot
+
+| | |
+| --- | --- |
+| **Studying** | B.E. Computer Science and Engineering, PSG College of Technology (pre-final year) |
+| **Build** | Full stack web applications, from frontend to backend |
+| **Drawn to** | Complex backend and distributed systems, microservices and architecture design |
+| **Also into** | DevOps and CI/CD, AI and machine learning |
+| **Practice** | Data structures and algorithms, solving problems to sharpen how I think |
+| **Campus** | Technical Team at CSE Association and Students Union, PSG Tech |
+| **Building now** | Full stack apps and microservices-based backend systems |
 
 ## Experience
 
@@ -25,10 +37,10 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ## Toolbox
 
 **Languages**<br>
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Web development**<br>
@@ -90,19 +102,20 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ## GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=dark" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshinii15&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinii15&layout=compact&hide_border=true&theme=dark" alt="Top languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&hide_border=true&theme=dark" alt="Contribution streak">
+  <img src="https://streak-stats.demolab.com?user=varshinii15&hide_border=true&theme=dark" alt="Contribution streak">
 </p>
 
 ## Let's connect
 
+Open to internships, projects and conversations about backend and distributed systems.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivarshini-gunasekaran-256011324)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivarshinig06@gmail.com)
 
-Location: **[add city, country]**
+Location: **Coimbatore, Tamil Nadu, India**
 
-<p align="center"><i>[Add a one-line personal motto here]</i></p>
+<p align="center"><i>Make it work, make it scalable, then make it simple.</i></p>
