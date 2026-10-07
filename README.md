@@ -44,18 +44,21 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Web development**<br>
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIS-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WEBSOCKETS-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Webhooks](https://img.shields.io/badge/WEBHOOKS-6366F1?style=for-the-badge&logoColor=white)
+![Socket.io](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIS-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Auth & security**<br>
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/BCRYPT-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge&logoColor=white)
 
 **Databases**<br>
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,15 +83,12 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI & machine learning**<br>
-![LLMs](https://img.shields.io/badge/LLMS-4C2A9E?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-9333EA?style=for-the-badge&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_AGENTS-FF6B00?style=for-the-badge&logoColor=white)
-![Google ADK](https://img.shields.io/badge/GOOGLE_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Gemini API](https://img.shields.io/badge/GEMINI_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq API](https://img.shields.io/badge/GROQ_API-F55036?style=for-the-badge&logoColor=white)
 ![Llama](https://img.shields.io/badge/LLAMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Vector Search](https://img.shields.io/badge/VECTOR_SEARCH-00A6D6?style=for-the-badge&logoColor=white)
+![Gemini API](https://img.shields.io/badge/GEMINI_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Whisper ASR](https://img.shields.io/badge/WHISPER_ASR-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Speech to Text](https://img.shields.io/badge/SPEECH_TO_TEXT-00A6D6?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Everyday tools**<br>
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -109,6 +109,16 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
   <img src="https://streak-stats.demolab.com?user=varshinii15&hide_border=true&theme=dark" alt="Contribution streak">
 </p>
 
+## Let's connect
+
+Open to internships, projects and conversations about backend and distributed systems.
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivarshini-gunasekaran-256011324)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivarshinig06@gmail.com)
+
+Location: **Coimbatore, Tamil Nadu, India**
+
+<p align="center"><i>Make it work, make it scalable, then make it simple.</i></p>
 ## Let's connect
 
 Open to internships, projects and conversations about backend and distributed systems.
