@@ -87,6 +87,7 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivarshini-gunasekaran-256011324)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_gsv_1508_/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivarshinig06@gmail.com)
 
 Location: **Coimbatore, Tamil Nadu, India**
