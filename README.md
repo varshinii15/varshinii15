@@ -14,7 +14,7 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ---
 
 
-## Toolbox
+## Tech Expertise
 
 **Languages**<br>
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,10 +41,9 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ![OAuth](https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge&logoColor=white)
 
 **Databases**<br>
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
