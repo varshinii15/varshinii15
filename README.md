@@ -13,26 +13,6 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 
 ---
 
-## Snapshot
-
-| | |
-| --- | --- |
-| **Studying** | B.E. Computer Science and Engineering, PSG College of Technology (pre-final year) |
-| **Build** | Full stack web applications, from frontend to backend |
-| **Drawn to** | Complex backend and distributed systems, microservices and architecture design |
-| **Also into** | DevOps and CI/CD, AI and machine learning |
-| **Practice** | Data structures and algorithms, solving problems to sharpen how I think |
-| **Campus** | Technical Team at CSE Association and Students Union, PSG Tech |
-| **Building now** | Full stack apps and microservices-based backend systems |
-
-## Experience
-
-**CSE Association (CSEA), PSG Tech**
-- **Associate Vertical Head, Technical Team** | Aug 2026 to present | Full-stack development
-- **Core Team Member, Technical Team** | Sep 2025 to Aug 2026 | Full-stack development
-
-**Students Union, PSG College of Technology**
-- **Core Team Member, Technical Team** | Aug 2026 to present
 
 ## Toolbox
 
@@ -67,10 +47,6 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Distributed systems**<br>
-![Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/MICROSERVICES-4C2FBF?style=for-the-badge&logoColor=white)
-![Event-Driven Architecture](https://img.shields.io/badge/EVENT--DRIVEN_ARCHITECTURE-00778B?style=for-the-badge&logoColor=white)
 
 **CI/CD & deployment**<br>
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -111,21 +87,7 @@ Pre-final year Computer Science student at PSG College of Technology and a full 
 
 ## Let's connect
 
-Open to internships, projects and conversations about backend and distributed systems.
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivarshini-gunasekaran-256011324)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivarshinig06@gmail.com)
 
 Location: **Coimbatore, Tamil Nadu, India**
-
-<p align="center"><i>Make it work, make it scalable, then make it simple.</i></p>
-## Let's connect
-
-Open to internships, projects and conversations about backend and distributed systems.
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivarshini-gunasekaran-256011324)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivarshinig06@gmail.com)
-
-Location: **Coimbatore, Tamil Nadu, India**
-
-<p align="center"><i>Make it work, make it scalable, then make it simple.</i></p>
